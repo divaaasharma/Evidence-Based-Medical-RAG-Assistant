@@ -205,7 +205,7 @@ The application was tested using:
 
 MBA – Artificial Intelligence & Data Science
 
-GitHub: [Your GitHub Profile](https://github.com/divaaasharma)
+GitHub: (https://github.com/divaaasharma)
 ## 📸 Application Screenshots
 
 ### 1. Application Interface
